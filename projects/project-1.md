@@ -10,6 +10,7 @@ labels:
   - AFJROTC
 summary: Redesigning Moanalua High School's AFJROTC Website
 ---
+<img class="ui medium right floated rounded image" src="/images/HI921.jpg">
 
 In my Junior year of high school I held the position of Public Affairs Officer for Moanalua High School's AFJROTC. When I received the responsibility from my predecessor, there was a lot to be done. The website was completely outdated and disorganized and it looked like it wasn't touched in years. Since the management of the website fell under my jurisdiction, I wanted to revamp it. I proposed the idea to my instructor and he gave me free range in what to do for the website. 
 
