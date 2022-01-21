@@ -10,6 +10,7 @@ labels:
   - C++
 summary: Created a UI/Database for ICS212 and translating between C and C++.
 ---
+<img class="ui medium right floated rounded image" src="../images/Database.png">
 
 For ICS 212 we had a project where we had to make a database that we could access through the command line. The interface was supposed to save, rename, look up, and delete records that we chose by typing the name into the system. This was a 2 part project where the first one we wrote in C and the second we translated the code we wrote in C to C++. I found this project quite difficult due to the syntax of C/C++ and I spent many days troubleshooting my project to get things to work. 
 
