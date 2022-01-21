@@ -18,4 +18,4 @@ The website was made through a company that allowed people to create their own f
 
 I divided the website to four main sections: Home, Cadet Guide, Calendar, and Events. This allowed users to easily access and go through whatever they want to see on the website. The Home page gave a basic summary of who the unit was as well as pictures. The Cadet Guide page consisted of facts and knowledge the cadets needed to know. The Calendar page consisted of a calendar that provides which events are coming for the year. Then the Events page was an archive of events that happened in the past.
 
-You can learn more at the [Moanalua HI921 Website] (http://hawaii921.weebly.com/)
+You can learn more at the [Moanalua HI921 Website](http://hawaii921.weebly.com/) 
