@@ -18,16 +18,22 @@ UHssignments will allow students to login using their UH ID. Student can navigat
 
 <h1>Mockup page ideas</h1>
 Some possible mockup pages include:
-Landing page
-User home page
-Calendar page
-Semesters page
-Classes page
+<ul>
+  <li>Landing page</li>
+  <li>User home page</li>
+  <li>Calendar page</li>
+  <li>Semesters page</li>
+  <li>Classes page</li>
+</ul>
 
 <h1>Use case ideas</h1>
-New users go to the landing page, log in, gets to the home page, then sets up their profile
-Users will go to the semesters page, create a semester page, then add classes into the semester page where they add their tasks into the classes page
+<ul>
+  <li>New users go to the landing page, log in, gets to the home page, then sets up their profile</li>
+  <li>Users will go to the semesters page, create a semester page, then add classes into the semester page where they add their tasks into the classes page</li>
+</ul>
 
 <h1>Beyond the basics</h1>
-Set a reminder for each task and have it sent to their phones when the due date is approaching
-Allow students to put their documents with the tasks for later use
+<ul>
+  <li>Set a reminder for each task and have it sent to their phones when the due date is approaching</li>
+  <li>Allow students to put their documents with the tasks for later use</li>
+</ul>
