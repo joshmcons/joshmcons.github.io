@@ -9,6 +9,8 @@ labels:
   - Technical Essay
 ---
 
+<img class="ui medium right floated rounded image" src="/images/DesignPattern.jpg">
+
 # Designing efficiency 
 When coding, we essentially have a goal in mind, creating something using lines of code. To many people it may seem like a puzzle, like a rubix cube, but each puzzle has a pattern along with it. Design patterns are solutions to the general problems developers come across. Decades of trial and error has brought out these solutions, like it always has in the field of science. Coding can be confusing so every help possible brings developers closer to the end product they are working on. Design patterns help with efficiency and are useful to everyone from beginners to veterans.
 
