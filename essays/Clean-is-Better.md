@@ -7,6 +7,7 @@ labels:
   - Javascript
   - Technical Essay
 ---
+<img class="ui medium left floated rounded image" src="/images/Clean-Code.png">
 
 Everyone has their own different way of writing their code and each code can be formatted in a different way. One example of this in real life is how each person has their own unique way of writing. Everyone writes their own way but it has to be readable to anyone that reads it. That is why coding standards help with the quality of code. Tools that help you with making your code cleaner make things a lot easier as they highlight parts of your code that could be made better. I've always had trouble with keeping my code clean and having a tool tell me what could be done to make it cleaner helps me out in the long run. This helps me learn as a programmer and gives me a better understanding of coding standards.
 
