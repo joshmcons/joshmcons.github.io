@@ -9,6 +9,8 @@ labels:
   - Technical Essay
 ---
 
+<img class="ui cover centered image" src="/images/collectives.png">
+
 When it comes to software development, we come across new questions every day. There are a lot of days where we're not sure how to solve the problem and a lot of times you're not the first person to ask. StackOverFlow is one of the most helpful tools software developers can use to help solve the problems they come across during their projects. StackOverFlow is accessible to everyone and there are many people that are willing to help you out. The problem is that not everyone knows how to properly use StackOverFlow. When people don't ask questions the smart way, it makes it harder for those that want to answer, and you would probably not get the answer you were looking for. That is why guidelines exist on how to properly exchange information on StackOverFlow, making things not only easier for the one asking the question, but for those answering as well.
 
 One question that I found going through StackOverFlow was "Cannot use strcpy with 2 string (segmentation fault)." I believe they asked this question in a smart way because they gave the code they were working on, explained what their goal is, as well as what they believed to be is the problem in their code. They more so asked for an explanation to the problem so that they could figure it out instead of asking for an answer itself. It seems that he did try to solve the problem on his own but just came across a block in his thinking.
