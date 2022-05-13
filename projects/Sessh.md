@@ -30,4 +30,4 @@ We used an issue-based project board over three major milestones in order to kee
 # Looking Back
 Some things I learned during this project is how important deadlines are, and how deadlines help set the pace for creating the application. Everyone had their own work to do and there were times where some would fall behind or need help, and we did our best to ensure we worked together to meet our deadlines. It was stressful but also a fun project. It was rewarding and I have learned a lot from this project.
 
-You can learn more at [Sessh](https://github.com/mox-amber/sessh) 
+You can learn more at [Sessh](https://mox-amber.github.io/sessh/) 
