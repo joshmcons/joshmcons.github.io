@@ -8,6 +8,7 @@ labels:
   - Learning
   - Semantic UI
 ---
+<img class="ui cover centered image" src="/images/UI-Design.jpg">
 
 There are millions of websites throughout the web. There are websites that look nice and professional, and there are also those that don't look as good. You can tell which ones have had a lot of effort made into making the sites. After experiencing making websites, I can tell that it is not easy to make websites. However, when you learn Semantic UI, it makes creating websites so much easier. Semantic UI takes away the complications of creating websites and it doesn't put any restrictions to your builds. What makes it better is that it works well with other formats like css. The challenging part of Semantic UI is that it can be overwhelming at first and sometimes you're not sure of what to use and how to use certain items. For example, I was confused on UI containers, but once I kept using and adding it to my html, I eventually got the hang of it. Just like all difficult things, it's hard to use at first but the more you use it the easier it will be. 
 
