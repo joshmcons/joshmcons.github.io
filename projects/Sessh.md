@@ -7,8 +7,10 @@ permalink: projects/Sessh
 date: 2022-05-10
 labels:
   - Web Design
-  - AFJROTC
-summary: Redesigning Moanalua High School's AFJROTC Website
+  - Javascript
+  - Meteor
+  - React
+summary: Desigining an Application for UH Musicians to get together
 ---
 <img class="ui cover centered image" src="/images/Sessh.jpg">
 
