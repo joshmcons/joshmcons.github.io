@@ -84,7 +84,46 @@
       ]
     }
   ],
-  
+  "work": [
+    {
+      "company": "Target",
+      "position": "Flexible Fulfillment Expert",
+      "startDate": "2018-05-17",
+      "endDate": "Present",
+      "summary": "Fulfilment Captain",
+      "highlights": [
+        "Properly prepare, pack and sort guest orders for shipment using correct materials",
+        "Meet guest order promise times to deliver on the guest demand"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "American Foundation for Suicide Prevention",
+      "website": "https://supporting.afsp.org/index.cfm?fuseaction=cms.page&id=1370",
+      "position": "Volunteer",
+      "startDate": "2015",
+      "endDate": "2017",
+      "summary": "Took pictures of the event for AFJROTC",
+      "highlights": [
+        "Walked to raise awarebess of suicide prevention",
+      ]
+    },
+  ],
+  "awards": [
+    {
+      "title": "Distinguished Graduate",
+      "date": "2017",
+      "awarder": "Hawaii Air Force Junior ROTC",
+      "summary": "Graduate top 10% of all graduates in the Cadet Leadership Course"
+    },
+    {
+      "title": "target Team Member Mid Year Performance Award",
+      "date": "2021",
+      "awarder": "Target",
+      "summary": "Recognized for amazing work and outstanding performance at T2870 Ala Moana Target Store"
+    }
+  ],
   
   "references": [
     {
