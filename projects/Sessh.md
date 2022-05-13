@@ -10,7 +10,7 @@ labels:
   - AFJROTC
 summary: Redesigning Moanalua High School's AFJROTC Website
 ---
-<img class="ui medium right floated rounded image" src="/images/Sessh.jpg">
+<img class="ui medium centered image" src="/images/Sessh.jpg">
 
 # Objective
 Sessh was a project designed to show everything we learned from our software engineering course. I and a group of 4 other people were assigned the project idea of an app designed to find fellow musicians attending UH Manoa. The project incorporated many key concepts that we would implement so that we could deliever a final product. Some things that were incorporated were:
