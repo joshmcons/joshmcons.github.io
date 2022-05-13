@@ -7,6 +7,7 @@ labels:
   - Javascript
   - Learning
 ---
+<img class="ui medium right floated rounded image" src="/images/Simple-Code.png">
 
 Coding isn't always easy. When you first learn to code, it could be quite confusing. There are numerous things to remember and sometimes you don't know what the correct thing to use is. Like using a Double or an Integer, you have to decide on what to use in the beginning and if you change your mind as you code, then you'd have to change the initial variable again. With Javascript, it makes things a lot simpler. I've tried different programming languages before, but Javascript is not only easier but also more fun to use. With ES6, coding with Javascript is a lot easier and simpler. It eliminates the need to type as much code and makes the code easier to see. If I were a complete newbie, I believe I would have an easier time learning Javascript. It is also a good programming language from a software engineering perspective.
 
