@@ -12,7 +12,7 @@ labels:
   - React
 summary: Desigining an Application for the Department of Education to track Legislative Bills
 ---
-<img class="ui cover centered image" src="/images/Sessh.jpg">
+<img class="ui cover centered image" src="/images/Home-page.png">
 
 # Objective
 The legislative tracker was a semester long project requested by the Department of Education(DOE). The goal was to create a tracker that will help DOE employees keep track of numerous bills that they must work on everyday. The team consisted of 9 members. There were many key concepts that went into implementing a final product. Some concepts incorporated were: 
