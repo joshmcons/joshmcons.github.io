@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Sessh.jpg
+image: images/Home-page.png
 title: Sessh
 permalink: projects/Sessh
 date: 2022-05-10
