@@ -2,9 +2,9 @@
 layout: project
 type: project
 image: images/Home-page.png
-title: Sessh
-permalink: projects/Sessh
-date: 2022-05-10
+title: Legislative Tracker
+permalink: projects/legislativeTracker
+date: 2022-12-01
 labels:
   - Web Design
   - Javascript
