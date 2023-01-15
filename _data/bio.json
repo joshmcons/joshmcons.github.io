@@ -60,6 +60,7 @@
         "Javascript",
         "Python",
         "HTML",
+        "ReactJS",
       ]
     },
     {
@@ -67,6 +68,7 @@
       "level": "",
       "keywords": [
         "Windows",
+        "Linux",
         "Git/GitHub",
         "IntelliJ",
       ]
@@ -77,10 +79,19 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2023)",
       "studyType": "B.A.",
-      "startDate": "2019-08-25",
+      "startDate": "2020-08-25",
       "endDate": "Present",
-      "gpa": "3.09",
+      "gpa": "2.87",
       "courses": [
+        "ICS111: Intro to Computer Science I",
+        "ICS141: Discrete Math for CS I",
+        "ICS211: Intro to Computer Science II",
+        "ICS212: Program Structure",
+        "ICS241: Discrete Mathematics II",
+        "ICS311: Algorithms",
+        "ICS314: Software Engineering I",
+        "ICS321: Database Systems I",
+        "ICS451: Data Networks",
       ]
     }
   ],
