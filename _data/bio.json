@@ -77,7 +77,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2023)",
+      "area": "Information and Computer Sciences (expected Spring, 2023)",
       "studyType": "B.A.",
       "startDate": "2020-08-25",
       "endDate": "Present",
@@ -91,7 +91,9 @@
         "ICS311: Algorithms",
         "ICS314: Software Engineering I",
         "ICS321: Database Systems I",
+        "ICS427: Software Quality Assurance",
         "ICS451: Data Networks",
+        "ENGR401: Engineering Management",
       ]
     }
   ],
@@ -104,7 +106,8 @@
       "summary": "Fulfilment Captain",
       "highlights": [
         "Properly prepare, pack and sort guest orders for shipment using correct materials",
-        "Meet guest order promise times to deliver on the guest demand"
+        "Meet guest order promise times to deliver on the guest demand",
+        "Took lead of the team in the absence of the team's direct and executive leadership"
       ]
     }
   ],
@@ -115,7 +118,7 @@
       "position": "Volunteer",
       "startDate": "2015",
       "endDate": "2017",
-      "summary": "Took pictures of the event for AFJROTC",
+      "summary": "Recorded the AFJROTC unit of Moanalua High School participating in the event",
       "highlights": [
         "Walked to raise awareness of suicide prevention",
       ]
@@ -127,6 +130,24 @@
       "date": "2017",
       "awarder": "Hawaii Air Force Junior ROTC",
       "summary": "Graduate top 10% of all graduates in the Cadet Leadership Course"
+    },
+    {
+      "title": "National Sojourners Award",
+      "date": "2017",
+      "awarder": "Hawaii Air Force Junior ROTC",
+      "summary": [
+        "Demonstrated potential for outstanding leadership",
+        "Encouraged and demonstrated ideals of Americanism by deed or conduct or both"
+      ]
+    },
+    {
+      "title": "Military Officers Association Award",
+      "date": "2018",
+      "awarder": "Hawaii Air Force Junior ROTC",
+      "summary": [
+        "Demonstrated a high degree of loyalty to the unit, school, and country",
+        "Demonstrated exceptional potential for military leadership"
+      ]
     },
     {
       "title": "Target Team Member Mid Year Performance Award",
