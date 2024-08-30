@@ -6,7 +6,7 @@
     "email": "joshmcons@gmail.com",
     "phone": "808-636-3723",
     "website": "https://joshmcons.github.io",
-    "summary": "Computer Programmer for the City and County of Honolulu",
+    "summary": "Computer Programmer for the City and County of Honolulu, Emergency Services Division",
     "location": {
       "address": "",
       "postalCode": "96818",
@@ -39,11 +39,6 @@
       ]
     },
     {
-      "name": "Game Development",
-      "keywords": [
-      ]
-    },
-    {
       "name": "Web Design",
       "keywords": [
       ]
@@ -71,13 +66,14 @@
         "Linux",
         "Git/GitHub",
         "IntelliJ",
+        "VS Code",
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Information and Computer Sciences (expected Spring, 2023)",
+      "area": "Information and Computer Sciences",
       "studyType": "B.A.",
       "startDate": "2020-08",
       "endDate": "2024-05",
@@ -101,7 +97,7 @@
     {
       "company": "Department of Information Technology, City and County of Honolulu",
       "position": "Computer Programmer II",
-      "startDate": "2024-08-21",
+      "startDate": "2024-08",
       "endDate": "Present",
       "summary": "Computer Programmer",
       "highlights": [
@@ -111,9 +107,20 @@
       ]
     },
     {
+      "company": "Department of Defense, National Security Innovation Network",
+      "position": "X-Force Fellow",
+      "startDate": "2023-06",
+      "endDate": "2023-08",
+      "summary": "Software Developer",
+      "highlights": [
+        "Created a web application to optimize flight scheduling for the 25th Infantry Division",
+        "Coordinated with 25th Infantry Division to further optimize the web application"
+      ]
+    },
+    {
       "company": "Target",
       "position": "Flexible Fulfillment Expert",
-      "startDate": "2018-05-17",
+      "startDate": "2018-05",
       "endDate": "Present",
       "summary": "Fulfillment Captain",
       "highlights": [
